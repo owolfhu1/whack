@@ -24,3 +24,5 @@ import {MatSnackBarModule} from "@angular/material/snack-bar";
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+// ng build --prod --output-path docs --base-href whack
